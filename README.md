@@ -28,16 +28,15 @@ It combines **AI-powered emotion detection**, **personalized mood tracking**, an
 - **AI/ML:** TensorFlow / OpenAI API / Emotion Recognition Models  
 - **Database:** MongoDB / Firebase  
 
-### 📦 Installation
-```bash
-git clone https://github.com/Anjusree-44/emocare.git
-cd emocare
-npm install
-npm start
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
 Please open an issue or pull request to suggest improvements or new features.
+
+# OUTPUT
+
+https://github.com/user-attachments/assets/adde6431-6d15-4f9d-81e8-bc10bfe43ec2
+
+
+
+
