@@ -1,4 +1,4 @@
-# EMOCARE--Patient-Emotion-Detector
+# EMOCARE--Patient-Emotion-Monitoring
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
